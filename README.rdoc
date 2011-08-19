@@ -1,0 +1,7 @@
+= Sílabas
+
+Sílabas is a simple tool for automatically transcribing and syllabifying Spanish text.
+
+Author:: Cody Brimhall (mailto:brimhall@somuchwit.com)
+Copyright:: Copyright (c) 2007-2011 Cody Brimhall
+License:: Distributed under the terms of the MIT License

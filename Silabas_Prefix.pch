@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'S’labas' target in the 'S’labas' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
